@@ -1,0 +1,76 @@
+MOUNTAIN SIDE GROWERS — IMAGE DOWNLOAD LIST
+============================================
+
+HOW THIS WORKS
+--------------
+Right now every image on the site loads from your live Squarespace address,
+so the photos show up immediately (in preview and after you deploy). Each
+<img> first looks for a LOCAL copy in an "images/" folder; if it doesn't
+find one, it falls back to the Squarespace URL automatically.
+
+That fallback ONLY works while your Squarespace site is still online. So
+BEFORE you cancel the Squarespace WEBSITE plan, download the 10 images below,
+save them with the exact filenames shown, and put them in a folder named
+"images" next to your .html files. Once they're there, the site uses your
+local copies and no longer depends on Squarespace at all.
+
+Final folder layout:
+  index.html
+  about.html
+  contact.html
+  menu.html
+  styles.css
+  script.js
+  CNAME
+  images/
+    logo.png
+    hero.jpg
+    living-soil.jpeg
+    water-air.jpeg
+    natural-inputs.jpeg
+    about-home.jpeg
+    about.jpg
+    contact.jpg
+    menu.png
+    nm-micro.jpg
+
+DOWNLOAD EACH URL, SAVE AS THE FILENAME ON THE LEFT
+---------------------------------------------------
+(To download: open the URL in your browser, right-click the image, "Save image as…",
+and use the exact filename. Or right-click > Save works directly.)
+
+images/logo.png
+  https://images.squarespace-cdn.com/content/v1/6850978de212c301c73a83c7/82b01071-64f6-4ff0-a3b4-a1d6aa611721/MountainSide_Logo_QR_SolidGreen.png?format=1500w
+
+images/hero.jpg
+  https://images.squarespace-cdn.com/content/v1/6850978de212c301c73a83c7/0365fdb2-bb21-424b-8641-8dd97fb3a53e/IMG_3665.jpg?format=2500w
+
+images/living-soil.jpeg
+  https://images.squarespace-cdn.com/content/v1/6850978de212c301c73a83c7/cb686dc3-e8b0-4c07-987f-632a7b2327f3/IMG_3850.jpeg?format=1500w
+
+images/water-air.jpeg
+  https://images.squarespace-cdn.com/content/v1/6850978de212c301c73a83c7/ea347984-be2f-4b0c-a7f1-574fe209f42d/IMG_3844.jpeg?format=1500w
+
+images/natural-inputs.jpeg
+  https://images.squarespace-cdn.com/content/v1/6850978de212c301c73a83c7/ecf73e41-61b6-46f0-b0f3-16440450f08f/IMG_3856.jpeg?format=1500w
+
+images/about-home.jpeg   (the cannabis photo in the About section on the home page)
+  https://images.squarespace-cdn.com/content/v1/6850978de212c301c73a83c7/48d34e26-8033-4d94-93ba-8eb43d7f58ea/IMG_3651.jpeg?format=1500w
+
+images/about.jpg         (the photo on the About page)
+  https://images.squarespace-cdn.com/content/v1/6850978de212c301c73a83c7/991e881f-03c9-49ff-9210-9819599bd7e1/IMG_3860.jpg?format=1500w
+
+images/contact.jpg       (the banner photo on the Contact page)
+  https://images.squarespace-cdn.com/content/v1/6850978de212c301c73a83c7/9b626fef-ba83-41b1-b779-4dfa5934032a/IMG_3853.jpg?format=1500w
+
+images/menu.png          (the Premium Organic Flower menu graphic)
+  https://images.squarespace-cdn.com/content/v1/6850978de212c301c73a83c7/636f8318-8c0d-41c9-a512-8ed37c57957f/MountainSide_Menu_Web.png?format=2500w
+
+images/nm-micro.jpg      (the NM Cannabis Micro Producer badge in the footer)
+  https://images.squarespace-cdn.com/content/v1/6850978de212c301c73a83c7/c2765cc1-1c03-4f0c-a94c-8a256774032b/NM_Micro_Logo2-Final_jpg.jpg?format=750w
+
+NOTE
+----
+You can adjust the "?format=NNNNw" number to get a bigger or smaller version
+(e.g. 1000w, 1500w, 2500w). Larger = sharper but heavier. The sizes above are
+good defaults for the web.
